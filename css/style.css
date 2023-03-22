@@ -1,0 +1,17 @@
+:root {
+  /* colors */
+  --clr-grey-700: hsl(217, 19%, 35%);
+  --clr-grey-500: hsl(214, 17%, 51%);
+  --clr-grey-300: hsl(212, 23%, 69%);
+  --clr-grey-100: hsl(210, 46%, 95%);
+
+  /* font size */
+  --fs-regular: 1.3rem;
+
+  /* Font weights */
+  --ff-regular: 500;
+  --ff-bold: 700;
+
+  /* Font family */
+  --ff-manrope: "Manrope", sans-serif;
+}
